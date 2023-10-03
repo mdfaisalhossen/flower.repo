@@ -1,0 +1,40 @@
+#rayhan{
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    height: 600px;}
+.left h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: white;
+
+}
+.reight img{
+
+
+
+}
+#win{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    height: 600px;
+}
+.left h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: beige;
+}
+.bg{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 900px;
+
+}
+.left h1{
+    font-size: 100px;
+    font-family: cursive;
+    color: aqua;
+    padding-right: 50px;
+}
