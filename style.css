@@ -36,5 +36,21 @@
     font-size: 100px;
     font-family: cursive;
     color: aqua;
-    padding-right: 50px;
+}
+.ng{
+    display: flex;
+    justify-content: center;
+    background-color: chocolate;
+    height: 600px;
+}
+.lift h1{
+    font-size: 100px;
+    font-family: cursive;
+    color: cadetblue;
+}
+body button{
+    padding: 15px;
+    background-color: red;
+    border: none;
+    cursor: white;
 }
